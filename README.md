@@ -22,7 +22,7 @@ Seeking **Summer/Fall 2024** software internships.
 ### 🔭 Currently...
 - An Organizer for [cuHacking](https://www.cuhacking.ca)
 - A Web Developer for [Systems and Computer Engieering Society](https://www.scesoc.ca)
-- Helping out at the [Carleton CS Society](https://ccss.carleton.ca)
+- Helping out at the [Carleton Computer Science Society](https://ccss.carleton.ca)
 - On the Avionics team for [CU InSpace](https://cuinspace.ca)
 - Working on an Android app with Kotlin
 
