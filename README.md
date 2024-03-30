@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Ishar, a 2nd-year Computer Science student at Carleton University.
+
+Seeking **Summer/Fall 2024** software internships
+
+### 🔭 Currently...
+- An organizer for [cuHacking](https://www.cuhacking.ca)
+- Developing a website for the [Systems and Computer Engieering Society](https://www.scesoc.ca)
+- Helping out at the [Carleton CS Society](https://ccss.carleton.ca)
+- On the avionics team for [CU InSpace](https://cuinspace.ca)
+- Working on an Android app with Kotlin
+
+### 🌱 Learning...
+- Kotlin
+- Swift
+- Go
+
+### 📫 Find me here...
+- [LinkedIn](https://www.linkedin.com/in/ishar-ghura/)
+- [Personal Website](https://isharghura.com)
