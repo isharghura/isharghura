@@ -27,6 +27,7 @@ Seeking **Summer/Fall 2024** software internships.
 - Working on an Android app with Kotlin
 
 ### 🌱 Learning...
+- Mainframe
 - Kotlin
 - Swift
 - Go
