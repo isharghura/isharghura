@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Ishar, a 2nd-year Computer Science student at Carleton University.
 
-Seeking **Summer/Fall 2024** software internships
+Seeking **Summer/Fall 2024** software internships.
 
 ### 🔭 Currently...
 - An organizer for [cuHacking](https://www.cuhacking.ca)
