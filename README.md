@@ -20,7 +20,7 @@ I'm Ishar, a 2nd-year Computer Science student at Carleton University.
 Seeking **Summer/Fall 2024** software internships.
 
 ### 🔭 Currently...
-- IBM Z Student Ambassador
+- An IBM Z Student Ambassador
 - An Organizer for [cuHacking](https://www.cuhacking.ca)
 - A Web Developer for [Systems and Computer Engieering Society](https://www.scesoc.ca)
 - Helping out at the [Carleton Computer Science Society](https://ccss.carleton.ca)
