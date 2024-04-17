@@ -21,6 +21,7 @@ Seeking **Summer/Fall 2024** software internships.
 
 ### 🔭 Currently...
 - An [IBM Z Student Ambassador](https://www.yourbigyear.com/ibm-zsystems-ambassador-program)
+- A Software Engineer at [SunnySide](https://www.sunnyside.care)
 - An Organizer for [cuHacking](https://www.cuhacking.ca)
 - A Web Developer for [Systems and Computer Engieering Society](https://www.scesoc.ca)
 - Helping out at the [Carleton Computer Science Society](https://ccss.carleton.ca)
