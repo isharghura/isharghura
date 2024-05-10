@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 I'm Ishar, a 2nd-year Computer Science student at Carleton University.
 
-Seeking a **Fall 2024** software internship.
-
 ### 🔭 Currently...
 - An [IBM Z Student Ambassador](https://www.yourbigyear.com/ibm-zsystems-ambassador-program)
 - A Software Engineer at [SunnySide](https://www.sunnyside.care)
