@@ -15,22 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Ishar, a 2nd-year Computer Science student at Carleton University.
+I'm Ishar, a 3rd-year Computer Science student at Carleton University.
 
 ### 🔭 Currently...
-- An [IBM Z Student Ambassador](https://www.yourbigyear.com/ibm-zsystems-ambassador-program)
 - A Software Engineer at [SunnySide](https://www.sunnyside.care)
+- An [IBM Z Student Ambassador](https://www.yourbigyear.com/ibm-zsystems-ambassador-program)
 - An Organizer for [cuHacking](https://www.cuhacking.ca)
-- A Web Developer for [Systems and Computer Engieering Society](https://www.scesoc.ca)
-- Helping out at the [Carleton Computer Science Society](https://ccss.carleton.ca)
-- On the Avionics team for [CU InSpace](https://cuinspace.ca)
-- Working on an Android app with Kotlin
 
 ### 🌱 Learning...
 - Mainframe
 - Kotlin
 - Swift
-- Go
 
 ### 📫 Find me here...
 - [LinkedIn](https://www.linkedin.com/in/ishar-ghura/)
