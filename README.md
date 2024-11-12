@@ -18,14 +18,10 @@ Here are some ideas to get you started:
 I'm Ishar, a 3rd-year Computer Science student at Carleton University.
 
 ### 🔭 Currently...
-- A Software Engineer at [SunnySide](https://www.sunnyside.care)
-- An [IBM Z Student Ambassador](https://www.yourbigyear.com/ibm-zsystems-ambassador-program)
-- An Organizer for [cuHacking](https://www.cuhacking.ca)
-
-### 🌱 Learning...
-- Mainframe
-- Kotlin
-- Swift
+- Software Engineer at [SunnySide](https://www.sunnyside.care)
+- [IBM Z Student Ambassador](https://www.yourbigyear.com/ibm-zsystems-ambassador-program)
+- Organizer for [cuHacking](https://www.cuhacking.ca)
+- Developer at [Carleton Blueprint](https://carletonblueprint.org)
 
 ### 📫 Find me here...
 - [LinkedIn](https://www.linkedin.com/in/ishar-ghura/)
