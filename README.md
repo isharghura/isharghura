@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I'm Ishar, a 3rd-year Computer Science student at Carleton University.
 
 ### 🔭 Currently...
+- Incoming JSI Telecom on AI/ML team
 - Building [HackVerify](https://www.hackverify.com)
 - Software Engineer at [SunnySide](https://www.sunnyside.care)
 - [IBM Z Student Ambassador](https://www.yourbigyear.com/ibm-zsystems-ambassador-program)
