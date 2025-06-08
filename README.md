@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Ishar, a 3rd-year Computer Science student at Carleton University.
 
 ### 🔭 Currently...
-- MLH Fellow (Meta Pod)
+- [MLH Fellow](https://fellowship.mlh.io) (Meta Pod)
 - Incoming [JSI Telecom](https://www.jsitelecom.com) on AI/ML team
 - Building [HackVerify](https://www.hackverify.com)
 - Software Engineer at [SunnySide](https://www.sunnyside.care)
