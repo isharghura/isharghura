@@ -18,12 +18,9 @@ Here are some ideas to get you started:
 I'm Ishar, a 3rd-year Computer Science student at Carleton University.
 
 ### 🔭 Currently...
-- Meta x MLH Production Engineering at [MLH Fellowship](https://fellowship.mlh.io/programs/production-engineering-sre)
-- Incoming [JSI Telecom](https://www.jsitelecom.com) on AI/ML team
+- AI Infrastucture Engineer at [JSI Telecom](https://www.jsitelecom.com)
 - Building [HackVerify](https://www.hackverify.com)
-- Software Engineer at [SunnySide](https://www.sunnyside.care)
 - Organizer for [cuHacking](https://www.cuhacking.ca)
-- Developer at [Carleton Blueprint](https://carletonblueprint.org)
 
 ### 📫 Find me here...
 - [LinkedIn](https://www.linkedin.com/in/ishar-ghura/)
