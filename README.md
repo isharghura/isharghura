@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Ishar, a 3rd-year Computer Science student at Carleton University.
+I'm Ishar, a 4th-year Computer Science student at Carleton University.
 
 ### 🔭 Currently...
 - AI Infrastucture Engineer at [JSI Telecom](https://www.jsitelecom.com)
