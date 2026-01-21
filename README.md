@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I'm Ishar, a 4th-year Computer Science student at Carleton University.
 
 ### 🔭 Currently...
-- AI Infrastucture Engineer at [JSI Telecom](https://www.jsitelecom.com)
-- Building [HackVerify](https://www.hackverify.com)
-- Organizer for [cuHacking](https://www.cuhacking.ca)
+- Machine Learning Engineer @ JSI
+- Building apps
+- Interested in collabs, email: ghuraishar@gmail.com
 
 ### 📫 Find me here...
 - [LinkedIn](https://www.linkedin.com/in/ishar-ghura/)
