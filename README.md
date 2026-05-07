@@ -20,9 +20,9 @@ I'm Ishar, a 4th-year Computer Science student at Carleton University.
 ### 🔭 Currently...
 - Machine Learning Engineer @ JSI
 - Building a robot
-- Interested in collabs, email: ghuraishar@gmail.com
 - Love startups, AI, and coding
 
 ### 📫 Find me here...
 - [LinkedIn](https://www.linkedin.com/in/ishar-ghura/)
 - [Personal Website](https://isharghura.com)
+- email: ghuraishar@gmail.com
