@@ -25,4 +25,4 @@ I'm Ishar, a 4th-year Computer Science student at Carleton University.
 ### 📫 Find me here...
 - [LinkedIn](https://www.linkedin.com/in/ishar-ghura/)
 - [Personal Website](https://isharghura.com)
-- email: ghuraishar@gmail.com
+- email: ishar.ghu@gmail.com
